@@ -5,11 +5,9 @@ export default function Welcome() {
     return (
         <>
             <header className="max-w-lg mx-auto">
-                <a href="#">
-                    <h1 className="text-4xl font-bold text-white text-center">
-                        React Laravel App
-                    </h1>
-                </a>
+                <h1 className="text-4xl font-bold text-white text-center">
+                    React Laravel App
+                </h1>
             </header>
 
             <main className="bg-white max-w-lg mx-auto p-8 md:p-12 my-10 rounded-lg shadow-2xl">
