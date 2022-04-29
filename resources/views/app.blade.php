@@ -19,8 +19,9 @@
           }
         </style>
     </head>
-    <body class="body-bg min-h-screen pt-12 md:pt-20 pb-6 px-2 md:px-0">
-      <div id="root"></div>
+    <body class="body-bg min-h-screen pt-10 md:pt-20 pb-6 px-2 md:px-0">
+        <noscript>You need to enable JavaScript to run this app.</noscript>
+        <div id="root"></div>
     </body>
     <!-- Call our app script -->
     <script src="{{ asset('js/app.js') }}" defer></script>
